@@ -1,0 +1,917 @@
+Diag Simple,Infectious
+3,Infectious
+5,Infectious
+7,Infectious
+8,Infectious
+9,Infectious
+10,Infectious
+11,Infectious
+14,Infectious
+17,Infectious
+23,Infectious
+27,Infectious
+31,Infectious
+34,Infectious
+35,Infectious
+36,Infectious
+38,Infectious
+39,Infectious
+40,Infectious
+41,Infectious
+42,Infectious
+46,Infectious
+47,Infectious
+48,Infectious
+49,Infectious
+52,Infectious
+53,Infectious
+54,Infectious
+57,Infectious
+58,Infectious
+61,Infectious
+66,Infectious
+70,Infectious
+75,Infectious
+78,Infectious
+79,Infectious
+82,Infectious
+84,Infectious
+88,Infectious
+94,Infectious
+96,Infectious
+97,Infectious
+98,Infectious
+99,Infectious
+110,Infectious
+111,Infectious
+112,Infectious
+114,Infectious
+115,Infectious
+117,Infectious
+122,Infectious
+123,Infectious
+130,Infectious
+131,Infectious
+132,Infectious
+133,Infectious
+135,Infectious
+136,Infectious
+137,Infectious
+138,Infectious
+139,Infectious
+140,Neoplasm
+141,Neoplasm
+142,Neoplasm
+143,Neoplasm
+145,Neoplasm
+146,Neoplasm
+147,Neoplasm
+148,Neoplasm
+149,Neoplasm
+150,Neoplasm
+151,Neoplasm
+152,Neoplasm
+153,Neoplasm
+154,Neoplasm
+155,Neoplasm
+156,Neoplasm
+157,Neoplasm
+158,Neoplasm
+160,Neoplasm
+161,Neoplasm
+162,Neoplasm
+163,Neoplasm
+164,Neoplasm
+170,Neoplasm
+171,Neoplasm
+172,Neoplasm
+173,Neoplasm
+174,Neoplasm
+175,Neoplasm
+179,Neoplasm
+180,Neoplasm
+182,Neoplasm
+183,Neoplasm
+184,Neoplasm
+185,Neoplasm
+186,Neoplasm
+187,Neoplasm
+188,Neoplasm
+189,Neoplasm
+191,Neoplasm
+192,Neoplasm
+193,Neoplasm
+194,Neoplasm
+195,Neoplasm
+196,Neoplasm
+197,Neoplasm
+198,Neoplasm
+199,Neoplasm
+200,Neoplasm
+201,Neoplasm
+202,Neoplasm
+203,Neoplasm
+204,Neoplasm
+205,Neoplasm
+207,Neoplasm
+208,Neoplasm
+210,Neoplasm
+211,Neoplasm
+212,Neoplasm
+214,Neoplasm
+215,Neoplasm
+216,Neoplasm
+217,Neoplasm
+218,Neoplasm
+219,Neoplasm
+220,Neoplasm
+223,Neoplasm
+225,Neoplasm
+226,Neoplasm
+227,Neoplasm
+228,Neoplasm
+229,Neoplasm
+230,Neoplasm
+232,Neoplasm
+233,Neoplasm
+235,Neoplasm
+236,Neoplasm
+237,Neoplasm
+238,Neoplasm
+239,Neoplasm
+240,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+241,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+242,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+243,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+244,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+245,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+246,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.01,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.02,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.03,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.1,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.11,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.12,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.13,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.2,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.21,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.22,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.23,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.3,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.31,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.32,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.33,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.4,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.41,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.42,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.43,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.5,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.51,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.52,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.53,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.6,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.7,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.8,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.81,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.82,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.83,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.9,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.91,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.92,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+250.93,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+251,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+252,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+253,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+255,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+256,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+258,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+259,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+260,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+261,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+262,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+263,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+265,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+266,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+268,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+269,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+270,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+271,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+272,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+273,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+274,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+275,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+276,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+277,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+278,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+279,"Endocrine, Metabolic Diseases, and Immunity Disorders"
+280,Diseases of the Blood and Blood-forming Organs
+281,Diseases of the Blood and Blood-forming Organs
+282,Diseases of the Blood and Blood-forming Organs
+283,Diseases of the Blood and Blood-forming Organs
+284,Diseases of the Blood and Blood-forming Organs
+285,Diseases of the Blood and Blood-forming Organs
+286,Diseases of the Blood and Blood-forming Organs
+287,Diseases of the Blood and Blood-forming Organs
+288,Diseases of the Blood and Blood-forming Organs
+289,Diseases of the Blood and Blood-forming Organs
+290,Mental Disorders
+291,Mental Disorders
+292,Mental Disorders
+293,Mental Disorders
+294,Mental Disorders
+295,Mental Disorders
+296,Mental Disorders
+297,Mental Disorders
+298,Mental Disorders
+299,Mental Disorders
+300,Mental Disorders
+301,Mental Disorders
+302,Mental Disorders
+303,Mental Disorders
+304,Mental Disorders
+305,Mental Disorders
+306,Mental Disorders
+307,Mental Disorders
+308,Mental Disorders
+309,Mental Disorders
+310,Mental Disorders
+311,Mental Disorders
+312,Mental Disorders
+313,Mental Disorders
+314,Mental Disorders
+315,Mental Disorders
+316,Mental Disorders
+317,Mental Disorders
+318,Mental Disorders
+319,Mental Disorders
+320,Diseases of the Nervous System and Sense Organs
+322,Diseases of the Nervous System and Sense Organs
+323,Diseases of the Nervous System and Sense Organs
+324,Diseases of the Nervous System and Sense Organs
+325,Diseases of the Nervous System and Sense Organs
+327,Diseases of the Nervous System and Sense Organs
+331,Diseases of the Nervous System and Sense Organs
+332,Diseases of the Nervous System and Sense Organs
+333,Diseases of the Nervous System and Sense Organs
+334,Diseases of the Nervous System and Sense Organs
+335,Diseases of the Nervous System and Sense Organs
+336,Diseases of the Nervous System and Sense Organs
+337,Diseases of the Nervous System and Sense Organs
+338,Diseases of the Nervous System and Sense Organs
+340,Diseases of the Nervous System and Sense Organs
+341,Diseases of the Nervous System and Sense Organs
+342,Diseases of the Nervous System and Sense Organs
+343,Diseases of the Nervous System and Sense Organs
+344,Diseases of the Nervous System and Sense Organs
+345,Diseases of the Nervous System and Sense Organs
+346,Diseases of the Nervous System and Sense Organs
+347,Diseases of the Nervous System and Sense Organs
+348,Diseases of the Nervous System and Sense Organs
+349,Diseases of the Nervous System and Sense Organs
+350,Diseases of the Nervous System and Sense Organs
+351,Diseases of the Nervous System and Sense Organs
+352,Diseases of the Nervous System and Sense Organs
+353,Diseases of the Nervous System and Sense Organs
+354,Diseases of the Nervous System and Sense Organs
+355,Diseases of the Nervous System and Sense Organs
+356,Diseases of the Nervous System and Sense Organs
+357,Diseases of the Nervous System and Sense Organs
+358,Diseases of the Nervous System and Sense Organs
+359,Diseases of the Nervous System and Sense Organs
+360,Diseases of the Nervous System and Sense Organs
+361,Diseases of the Nervous System and Sense Organs
+362,Diseases of the Nervous System and Sense Organs
+363,Diseases of the Nervous System and Sense Organs
+364,Diseases of the Nervous System and Sense Organs
+365,Diseases of the Nervous System and Sense Organs
+365.44,Diseases of the Nervous System and Sense Organs
+366,Diseases of the Nervous System and Sense Organs
+368,Diseases of the Nervous System and Sense Organs
+369,Diseases of the Nervous System and Sense Organs
+370,Diseases of the Nervous System and Sense Organs
+372,Diseases of the Nervous System and Sense Organs
+373,Diseases of the Nervous System and Sense Organs
+374,Diseases of the Nervous System and Sense Organs
+375,Diseases of the Nervous System and Sense Organs
+376,Diseases of the Nervous System and Sense Organs
+377,Diseases of the Nervous System and Sense Organs
+378,Diseases of the Nervous System and Sense Organs
+379,Diseases of the Nervous System and Sense Organs
+380,Diseases of the Nervous System and Sense Organs
+381,Diseases of the Nervous System and Sense Organs
+382,Diseases of the Nervous System and Sense Organs
+383,Diseases of the Nervous System and Sense Organs
+384,Diseases of the Nervous System and Sense Organs
+385,Diseases of the Nervous System and Sense Organs
+386,Diseases of the Nervous System and Sense Organs
+387,Diseases of the Nervous System and Sense Organs
+388,Diseases of the Nervous System and Sense Organs
+389,Diseases of the Nervous System and Sense Organs
+391,Diseases of the Circulatory System
+394,Diseases of the Circulatory System
+395,Diseases of the Circulatory System
+396,Diseases of the Circulatory System
+397,Diseases of the Circulatory System
+398,Diseases of the Circulatory System
+401,Diseases of the Circulatory System
+402,Diseases of the Circulatory System
+403,Diseases of the Circulatory System
+404,Diseases of the Circulatory System
+405,Diseases of the Circulatory System
+410,Diseases of the Circulatory System
+411,Diseases of the Circulatory System
+412,Diseases of the Circulatory System
+413,Diseases of the Circulatory System
+414,Diseases of the Circulatory System
+415,Diseases of the Circulatory System
+416,Diseases of the Circulatory System
+417,Diseases of the Circulatory System
+420,Diseases of the Circulatory System
+421,Diseases of the Circulatory System
+422,Diseases of the Circulatory System
+423,Diseases of the Circulatory System
+424,Diseases of the Circulatory System
+425,Diseases of the Circulatory System
+426,Diseases of the Circulatory System
+427,Diseases of the Circulatory System
+428,Diseases of the Circulatory System
+429,Diseases of the Circulatory System
+430,Diseases of the Circulatory System
+431,Diseases of the Circulatory System
+432,Diseases of the Circulatory System
+433,Diseases of the Circulatory System
+434,Diseases of the Circulatory System
+435,Diseases of the Circulatory System
+436,Diseases of the Circulatory System
+437,Diseases of the Circulatory System
+438,Diseases of the Circulatory System
+440,Diseases of the Circulatory System
+441,Diseases of the Circulatory System
+442,Diseases of the Circulatory System
+443,Diseases of the Circulatory System
+444,Diseases of the Circulatory System
+445,Diseases of the Circulatory System
+446,Diseases of the Circulatory System
+447,Diseases of the Circulatory System
+448,Diseases of the Circulatory System
+451,Diseases of the Circulatory System
+452,Diseases of the Circulatory System
+453,Diseases of the Circulatory System
+454,Diseases of the Circulatory System
+455,Diseases of the Circulatory System
+456,Diseases of the Circulatory System
+457,Diseases of the Circulatory System
+458,Diseases of the Circulatory System
+459,Diseases of the Circulatory System
+460,Diseases of the Respiratory System
+461,Diseases of the Respiratory System
+462,Diseases of the Respiratory System
+463,Diseases of the Respiratory System
+464,Diseases of the Respiratory System
+465,Diseases of the Respiratory System
+466,Diseases of the Respiratory System
+470,Diseases of the Respiratory System
+471,Diseases of the Respiratory System
+472,Diseases of the Respiratory System
+473,Diseases of the Respiratory System
+474,Diseases of the Respiratory System
+475,Diseases of the Respiratory System
+477,Diseases of the Respiratory System
+478,Diseases of the Respiratory System
+480,Diseases of the Respiratory System
+481,Diseases of the Respiratory System
+482,Diseases of the Respiratory System
+483,Diseases of the Respiratory System
+484,Diseases of the Respiratory System
+485,Diseases of the Respiratory System
+486,Diseases of the Respiratory System
+487,Diseases of the Respiratory System
+490,Diseases of the Respiratory System
+491,Diseases of the Respiratory System
+492,Diseases of the Respiratory System
+493,Diseases of the Respiratory System
+494,Diseases of the Respiratory System
+495,Diseases of the Respiratory System
+496,Diseases of the Respiratory System
+500,Diseases of the Respiratory System
+501,Diseases of the Respiratory System
+506,Diseases of the Respiratory System
+507,Diseases of the Respiratory System
+508,Diseases of the Respiratory System
+510,Diseases of the Respiratory System
+511,Diseases of the Respiratory System
+512,Diseases of the Respiratory System
+513,Diseases of the Respiratory System
+514,Diseases of the Respiratory System
+515,Diseases of the Respiratory System
+516,Diseases of the Respiratory System
+517,Diseases of the Respiratory System
+518,Diseases of the Respiratory System
+519,Diseases of the Respiratory System
+520,Diseases of the Digestive System
+521,Diseases of the Digestive System
+522,Diseases of the Digestive System
+523,Diseases of the Digestive System
+524,Diseases of the Digestive System
+525,Diseases of the Digestive System
+526,Diseases of the Digestive System
+527,Diseases of the Digestive System
+528,Diseases of the Digestive System
+529,Diseases of the Digestive System
+530,Diseases of the Digestive System
+531,Diseases of the Digestive System
+532,Diseases of the Digestive System
+533,Diseases of the Digestive System
+534,Diseases of the Digestive System
+535,Diseases of the Digestive System
+536,Diseases of the Digestive System
+537,Diseases of the Digestive System
+538,Diseases of the Digestive System
+540,Diseases of the Digestive System
+541,Diseases of the Digestive System
+542,Diseases of the Digestive System
+543,Diseases of the Digestive System
+550,Diseases of the Digestive System
+551,Diseases of the Digestive System
+552,Diseases of the Digestive System
+553,Diseases of the Digestive System
+555,Diseases of the Digestive System
+556,Diseases of the Digestive System
+557,Diseases of the Digestive System
+558,Diseases of the Digestive System
+560,Diseases of the Digestive System
+562,Diseases of the Digestive System
+564,Diseases of the Digestive System
+565,Diseases of the Digestive System
+566,Diseases of the Digestive System
+567,Diseases of the Digestive System
+568,Diseases of the Digestive System
+569,Diseases of the Digestive System
+570,Diseases of the Digestive System
+571,Diseases of the Digestive System
+572,Diseases of the Digestive System
+573,Diseases of the Digestive System
+574,Diseases of the Digestive System
+575,Diseases of the Digestive System
+576,Diseases of the Digestive System
+577,Diseases of the Digestive System
+578,Diseases of the Digestive System
+579,Diseases of the Digestive System
+580,Diseases of the Genitourinary System
+581,Diseases of the Genitourinary System
+582,Diseases of the Genitourinary System
+583,Diseases of the Genitourinary System
+584,Diseases of the Genitourinary System
+585,Diseases of the Genitourinary System
+586,Diseases of the Genitourinary System
+588,Diseases of the Genitourinary System
+590,Diseases of the Genitourinary System
+591,Diseases of the Genitourinary System
+592,Diseases of the Genitourinary System
+593,Diseases of the Genitourinary System
+594,Diseases of the Genitourinary System
+595,Diseases of the Genitourinary System
+596,Diseases of the Genitourinary System
+597,Diseases of the Genitourinary System
+598,Diseases of the Genitourinary System
+599,Diseases of the Genitourinary System
+600,Diseases of the Genitourinary System
+601,Diseases of the Genitourinary System
+602,Diseases of the Genitourinary System
+603,Diseases of the Genitourinary System
+604,Diseases of the Genitourinary System
+605,Diseases of the Genitourinary System
+607,Diseases of the Genitourinary System
+608,Diseases of the Genitourinary System
+610,Diseases of the Genitourinary System
+611,Diseases of the Genitourinary System
+614,Diseases of the Genitourinary System
+615,Diseases of the Genitourinary System
+616,Diseases of the Genitourinary System
+617,Diseases of the Genitourinary System
+618,Diseases of the Genitourinary System
+619,Diseases of the Genitourinary System
+620,Diseases of the Genitourinary System
+621,Diseases of the Genitourinary System
+622,Diseases of the Genitourinary System
+623,Diseases of the Genitourinary System
+624,Diseases of the Genitourinary System
+625,Diseases of the Genitourinary System
+626,Diseases of the Genitourinary System
+627,Diseases of the Genitourinary System
+632,"Complications of Pregnancy, Childbirth, and the Puerperium"
+633,"Complications of Pregnancy, Childbirth, and the Puerperium"
+634,"Complications of Pregnancy, Childbirth, and the Puerperium"
+637,"Complications of Pregnancy, Childbirth, and the Puerperium"
+640,"Complications of Pregnancy, Childbirth, and the Puerperium"
+641,"Complications of Pregnancy, Childbirth, and the Puerperium"
+642,"Complications of Pregnancy, Childbirth, and the Puerperium"
+643,"Complications of Pregnancy, Childbirth, and the Puerperium"
+644,"Complications of Pregnancy, Childbirth, and the Puerperium"
+645,"Complications of Pregnancy, Childbirth, and the Puerperium"
+646,"Complications of Pregnancy, Childbirth, and the Puerperium"
+647,"Complications of Pregnancy, Childbirth, and the Puerperium"
+648,"Complications of Pregnancy, Childbirth, and the Puerperium"
+649,"Complications of Pregnancy, Childbirth, and the Puerperium"
+652,"Complications of Pregnancy, Childbirth, and the Puerperium"
+653,"Complications of Pregnancy, Childbirth, and the Puerperium"
+654,"Complications of Pregnancy, Childbirth, and the Puerperium"
+655,"Complications of Pregnancy, Childbirth, and the Puerperium"
+656,"Complications of Pregnancy, Childbirth, and the Puerperium"
+657,"Complications of Pregnancy, Childbirth, and the Puerperium"
+658,"Complications of Pregnancy, Childbirth, and the Puerperium"
+659,"Complications of Pregnancy, Childbirth, and the Puerperium"
+660,"Complications of Pregnancy, Childbirth, and the Puerperium"
+661,"Complications of Pregnancy, Childbirth, and the Puerperium"
+663,"Complications of Pregnancy, Childbirth, and the Puerperium"
+664,"Complications of Pregnancy, Childbirth, and the Puerperium"
+665,"Complications of Pregnancy, Childbirth, and the Puerperium"
+669,"Complications of Pregnancy, Childbirth, and the Puerperium"
+670,"Complications of Pregnancy, Childbirth, and the Puerperium"
+671,"Complications of Pregnancy, Childbirth, and the Puerperium"
+674,"Complications of Pregnancy, Childbirth, and the Puerperium"
+680,Diseases of the Skin and Subcutaneous Tissue
+681,Diseases of the Skin and Subcutaneous Tissue
+682,Diseases of the Skin and Subcutaneous Tissue
+683,Diseases of the Skin and Subcutaneous Tissue
+684,Diseases of the Skin and Subcutaneous Tissue
+685,Diseases of the Skin and Subcutaneous Tissue
+686,Diseases of the Skin and Subcutaneous Tissue
+690,Diseases of the Skin and Subcutaneous Tissue
+691,Diseases of the Skin and Subcutaneous Tissue
+692,Diseases of the Skin and Subcutaneous Tissue
+693,Diseases of the Skin and Subcutaneous Tissue
+694,Diseases of the Skin and Subcutaneous Tissue
+695,Diseases of the Skin and Subcutaneous Tissue
+696,Diseases of the Skin and Subcutaneous Tissue
+697,Diseases of the Skin and Subcutaneous Tissue
+698,Diseases of the Skin and Subcutaneous Tissue
+700,Diseases of the Skin and Subcutaneous Tissue
+701,Diseases of the Skin and Subcutaneous Tissue
+702,Diseases of the Skin and Subcutaneous Tissue
+703,Diseases of the Skin and Subcutaneous Tissue
+704,Diseases of the Skin and Subcutaneous Tissue
+705,Diseases of the Skin and Subcutaneous Tissue
+706,Diseases of the Skin and Subcutaneous Tissue
+707,Diseases of the Skin and Subcutaneous Tissue
+708,Diseases of the Skin and Subcutaneous Tissue
+709,Diseases of the Skin and Subcutaneous Tissue
+710,Diseases of the Musculoskeletal System and Connective Tissue
+711,Diseases of the Musculoskeletal System and Connective Tissue
+712,Diseases of the Musculoskeletal System and Connective Tissue
+713,Diseases of the Musculoskeletal System and Connective Tissue
+714,Diseases of the Musculoskeletal System and Connective Tissue
+715,Diseases of the Musculoskeletal System and Connective Tissue
+716,Diseases of the Musculoskeletal System and Connective Tissue
+717,Diseases of the Musculoskeletal System and Connective Tissue
+718,Diseases of the Musculoskeletal System and Connective Tissue
+719,Diseases of the Musculoskeletal System and Connective Tissue
+720,Diseases of the Musculoskeletal System and Connective Tissue
+721,Diseases of the Musculoskeletal System and Connective Tissue
+722,Diseases of the Musculoskeletal System and Connective Tissue
+723,Diseases of the Musculoskeletal System and Connective Tissue
+724,Diseases of the Musculoskeletal System and Connective Tissue
+725,Diseases of the Musculoskeletal System and Connective Tissue
+726,Diseases of the Musculoskeletal System and Connective Tissue
+727,Diseases of the Musculoskeletal System and Connective Tissue
+728,Diseases of the Musculoskeletal System and Connective Tissue
+729,Diseases of the Musculoskeletal System and Connective Tissue
+730,Diseases of the Musculoskeletal System and Connective Tissue
+731,Diseases of the Musculoskeletal System and Connective Tissue
+732,Diseases of the Musculoskeletal System and Connective Tissue
+733,Diseases of the Musculoskeletal System and Connective Tissue
+734,Diseases of the Musculoskeletal System and Connective Tissue
+735,Diseases of the Musculoskeletal System and Connective Tissue
+736,Diseases of the Musculoskeletal System and Connective Tissue
+737,Diseases of the Musculoskeletal System and Connective Tissue
+738,Diseases of the Musculoskeletal System and Connective Tissue
+741,Congenital Anomalies
+742,Congenital Anomalies
+744,Congenital Anomalies
+745,Congenital Anomalies
+746,Congenital Anomalies
+747,Congenital Anomalies
+748,Congenital Anomalies
+750,Congenital Anomalies
+751,Congenital Anomalies
+752,Congenital Anomalies
+753,Congenital Anomalies
+754,Congenital Anomalies
+755,Congenital Anomalies
+756,Congenital Anomalies
+757,Congenital Anomalies
+758,Congenital Anomalies
+759,Congenital Anomalies
+780,"Symptoms, Signs and Ill-defined Conditions"
+781,"Symptoms, Signs and Ill-defined Conditions"
+782,"Symptoms, Signs and Ill-defined Conditions"
+783,"Symptoms, Signs and Ill-defined Conditions"
+784,"Symptoms, Signs and Ill-defined Conditions"
+785,"Symptoms, Signs and Ill-defined Conditions"
+786,"Symptoms, Signs and Ill-defined Conditions"
+787,"Symptoms, Signs and Ill-defined Conditions"
+788,"Symptoms, Signs and Ill-defined Conditions"
+789,"Symptoms, Signs and Ill-defined Conditions"
+790,"Symptoms, Signs and Ill-defined Conditions"
+791,"Symptoms, Signs and Ill-defined Conditions"
+792,"Symptoms, Signs and Ill-defined Conditions"
+793,"Symptoms, Signs and Ill-defined Conditions"
+794,"Symptoms, Signs and Ill-defined Conditions"
+795,"Symptoms, Signs and Ill-defined Conditions"
+796,"Symptoms, Signs and Ill-defined Conditions"
+797,"Symptoms, Signs and Ill-defined Conditions"
+799,"Symptoms, Signs and Ill-defined Conditions"
+800,Injury and Poisoning
+801,Injury and Poisoning
+802,Injury and Poisoning
+803,Injury and Poisoning
+804,Injury and Poisoning
+805,Injury and Poisoning
+806,Injury and Poisoning
+807,Injury and Poisoning
+808,Injury and Poisoning
+810,Injury and Poisoning
+811,Injury and Poisoning
+812,Injury and Poisoning
+813,Injury and Poisoning
+814,Injury and Poisoning
+815,Injury and Poisoning
+816,Injury and Poisoning
+817,Injury and Poisoning
+820,Injury and Poisoning
+821,Injury and Poisoning
+822,Injury and Poisoning
+823,Injury and Poisoning
+824,Injury and Poisoning
+825,Injury and Poisoning
+826,Injury and Poisoning
+827,Injury and Poisoning
+831,Injury and Poisoning
+832,Injury and Poisoning
+833,Injury and Poisoning
+834,Injury and Poisoning
+835,Injury and Poisoning
+836,Injury and Poisoning
+837,Injury and Poisoning
+838,Injury and Poisoning
+839,Injury and Poisoning
+840,Injury and Poisoning
+841,Injury and Poisoning
+842,Injury and Poisoning
+843,Injury and Poisoning
+844,Injury and Poisoning
+845,Injury and Poisoning
+846,Injury and Poisoning
+847,Injury and Poisoning
+848,Injury and Poisoning
+850,Injury and Poisoning
+851,Injury and Poisoning
+852,Injury and Poisoning
+853,Injury and Poisoning
+854,Injury and Poisoning
+860,Injury and Poisoning
+861,Injury and Poisoning
+862,Injury and Poisoning
+863,Injury and Poisoning
+864,Injury and Poisoning
+865,Injury and Poisoning
+866,Injury and Poisoning
+867,Injury and Poisoning
+868,Injury and Poisoning
+869,Injury and Poisoning
+870,Injury and Poisoning
+871,Injury and Poisoning
+872,Injury and Poisoning
+873,Injury and Poisoning
+875,Injury and Poisoning
+876,Injury and Poisoning
+877,Injury and Poisoning
+878,Injury and Poisoning
+879,Injury and Poisoning
+880,Injury and Poisoning
+881,Injury and Poisoning
+882,Injury and Poisoning
+883,Injury and Poisoning
+884,Injury and Poisoning
+885,Injury and Poisoning
+886,Injury and Poisoning
+890,Injury and Poisoning
+891,Injury and Poisoning
+892,Injury and Poisoning
+893,Injury and Poisoning
+894,Injury and Poisoning
+895,Injury and Poisoning
+897,Injury and Poisoning
+903,Injury and Poisoning
+904,Injury and Poisoning
+905,Injury and Poisoning
+906,Injury and Poisoning
+907,Injury and Poisoning
+908,Injury and Poisoning
+909,Injury and Poisoning
+910,Injury and Poisoning
+911,Injury and Poisoning
+912,Injury and Poisoning
+913,Injury and Poisoning
+914,Injury and Poisoning
+915,Injury and Poisoning
+916,Injury and Poisoning
+917,Injury and Poisoning
+918,Injury and Poisoning
+919,Injury and Poisoning
+920,Injury and Poisoning
+921,Injury and Poisoning
+922,Injury and Poisoning
+923,Injury and Poisoning
+924,Injury and Poisoning
+927,Injury and Poisoning
+928,Injury and Poisoning
+930,Injury and Poisoning
+933,Injury and Poisoning
+934,Injury and Poisoning
+935,Injury and Poisoning
+936,Injury and Poisoning
+939,Injury and Poisoning
+941,Injury and Poisoning
+942,Injury and Poisoning
+943,Injury and Poisoning
+944,Injury and Poisoning
+945,Injury and Poisoning
+947,Injury and Poisoning
+948,Injury and Poisoning
+951,Injury and Poisoning
+952,Injury and Poisoning
+953,Injury and Poisoning
+955,Injury and Poisoning
+956,Injury and Poisoning
+957,Injury and Poisoning
+958,Injury and Poisoning
+959,Injury and Poisoning
+962,Injury and Poisoning
+963,Injury and Poisoning
+964,Injury and Poisoning
+965,Injury and Poisoning
+966,Injury and Poisoning
+967,Injury and Poisoning
+968,Injury and Poisoning
+969,Injury and Poisoning
+970,Injury and Poisoning
+971,Injury and Poisoning
+972,Injury and Poisoning
+973,Injury and Poisoning
+974,Injury and Poisoning
+975,Injury and Poisoning
+976,Injury and Poisoning
+977,Injury and Poisoning
+980,Injury and Poisoning
+982,Injury and Poisoning
+983,Injury and Poisoning
+986,Injury and Poisoning
+987,Injury and Poisoning
+988,Injury and Poisoning
+989,Injury and Poisoning
+990,Injury and Poisoning
+991,Injury and Poisoning
+992,Injury and Poisoning
+994,Injury and Poisoning
+995,Injury and Poisoning
+996,Injury and Poisoning
+997,Injury and Poisoning
+998,Injury and Poisoning
+999,Injury and Poisoning
+E812,Injury and Poisoning
+E813,Injury and Poisoning
+E814,Injury and Poisoning
+E815,Injury and Poisoning
+E816,Injury and Poisoning
+E817,Injury and Poisoning
+E818,Injury and Poisoning
+E819,Injury and Poisoning
+E821,Injury and Poisoning
+E822,Injury and Poisoning
+E825,Injury and Poisoning
+E826,Injury and Poisoning
+E828,Injury and Poisoning
+E829,Injury and Poisoning
+E849,Injury and Poisoning
+E850,Injury and Poisoning
+E852,Injury and Poisoning
+E853,Injury and Poisoning
+E854,Injury and Poisoning
+E855,Injury and Poisoning
+E858,Injury and Poisoning
+E861,Injury and Poisoning
+E864,Injury and Poisoning
+E865,Injury and Poisoning
+E868,Injury and Poisoning
+E870,Injury and Poisoning
+E876,Injury and Poisoning
+E878,Injury and Poisoning
+E879,Injury and Poisoning
+E880,Injury and Poisoning
+E881,Injury and Poisoning
+E882,Injury and Poisoning
+E883,Injury and Poisoning
+E884,Injury and Poisoning
+E885,Injury and Poisoning
+E886,Injury and Poisoning
+E887,Injury and Poisoning
+E888,Injury and Poisoning
+E890,Injury and Poisoning
+E892,Injury and Poisoning
+E894,Injury and Poisoning
+E900,Injury and Poisoning
+E901,Injury and Poisoning
+E904,Injury and Poisoning
+E905,Injury and Poisoning
+E906,Injury and Poisoning
+E909,Injury and Poisoning
+E912,Injury and Poisoning
+E915,Injury and Poisoning
+E916,Injury and Poisoning
+E917,Injury and Poisoning
+E918,Injury and Poisoning
+E919,Injury and Poisoning
+E920,Injury and Poisoning
+E922,Injury and Poisoning
+E924,Injury and Poisoning
+E927,Injury and Poisoning
+E928,Injury and Poisoning
+E929,Injury and Poisoning
+E930,Injury and Poisoning
+E931,Injury and Poisoning
+E932,Injury and Poisoning
+E933,Injury and Poisoning
+E934,Injury and Poisoning
+E935,Injury and Poisoning
+E936,Injury and Poisoning
+E937,Injury and Poisoning
+E938,Injury and Poisoning
+E939,Injury and Poisoning
+E941,Injury and Poisoning
+E942,Injury and Poisoning
+E943,Injury and Poisoning
+E944,Injury and Poisoning
+E945,Injury and Poisoning
+E946,Injury and Poisoning
+E947,Injury and Poisoning
+E949,Injury and Poisoning
+E950,Injury and Poisoning
+E955,Injury and Poisoning
+E956,Injury and Poisoning
+E965,Injury and Poisoning
+E966,Injury and Poisoning
+E968,Injury and Poisoning
+E980,Injury and Poisoning
+E987,Injury and Poisoning
+nan,Injury and Poisoning
+V01,Injury and Poisoning
+V02,Injury and Poisoning
+V03,Injury and Poisoning
+V06,Injury and Poisoning
+V07,Injury and Poisoning
+V08,Injury and Poisoning
+V09,Injury and Poisoning
+V10,Injury and Poisoning
+V11,Injury and Poisoning
+V12,Injury and Poisoning
+V13,Injury and Poisoning
+V14,Injury and Poisoning
+V15,Injury and Poisoning
+V16,Injury and Poisoning
+V17,Injury and Poisoning
+V18,Injury and Poisoning
+V22,Injury and Poisoning
+V23,Injury and Poisoning
+V25,Injury and Poisoning
+V26,Injury and Poisoning
+V27,Injury and Poisoning
+V42,Injury and Poisoning
+V43,Injury and Poisoning
+V44,Injury and Poisoning
+V45,Injury and Poisoning
+V46,Injury and Poisoning
+V49,Injury and Poisoning
+V50,Injury and Poisoning
+V51,Injury and Poisoning
+V53,Injury and Poisoning
+V54,Injury and Poisoning
+V55,Injury and Poisoning
+V56,Injury and Poisoning
+V57,Injury and Poisoning
+V58,Injury and Poisoning
+V60,Injury and Poisoning
+V61,Injury and Poisoning
+V62,Injury and Poisoning
+V63,Injury and Poisoning
+V64,Injury and Poisoning
+V65,Injury and Poisoning
+V66,Injury and Poisoning
+V67,Injury and Poisoning
+V69,Injury and Poisoning
+V70,Injury and Poisoning
+V71,Injury and Poisoning
+V72,Injury and Poisoning
+V85,Injury and Poisoning
+V86,Injury and Poisoning
